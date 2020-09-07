@@ -13,7 +13,7 @@ Stock market prediction is the act of trying to determine the future value of a 
     ```bash
    python stock_price_prediction.py file
    ```
-3. Now, you will see the graph that is showing previous stock price results and forecast results for the next day.
+3. Now, you will see the graph that is showing previous stock price results and forecast results for next few days.
 
 ## References
 1. [Wikipedia: Stock Market Prediction](https://en.wikipedia.org/wiki/Stock_market_prediction#:~:text=Stock%20market%20prediction%20is%20the,price%20could%20yield%20significant%20profit.)
