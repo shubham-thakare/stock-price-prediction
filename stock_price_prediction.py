@@ -62,12 +62,14 @@ for i in forecast_value:
     next_unix += one_day
     df.loc[Date] = [np.nan for all in range(len(df.columns) - 1)] + [i]
 
+# Set graph window full screen
+mng = plt.get_current_fig_manager()
+mng.window.state("zoomed")
+
 # Show matplot graph for Adj Close and Forecast results
 df['Adj Close'].plot()
 df['Forecast'].plot()
 plt.legend(loc=4)
 plt.xlabel('Dates')
 plt.ylabel('Price')
-mng = plt.get_current_fig_manager()
-mng.window.state("zoomed")
 plt.show()
