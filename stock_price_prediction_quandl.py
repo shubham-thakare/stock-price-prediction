@@ -9,7 +9,7 @@ from matplotlib import style
 from sklearn import preprocessing, model_selection
 from sklearn.linear_model import LinearRegression
 
-from print_and_sleep import print_and_sleep
+from utils.print_and_sleep import print_and_sleep
 
 # Set matplot graph style
 style.use('ggplot')
