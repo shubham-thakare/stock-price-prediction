@@ -18,3 +18,5 @@ Stock market prediction is the act of trying to determine the future value of a 
 ## References
 1. [Wikipedia: Stock Market Prediction](https://en.wikipedia.org/wiki/Stock_market_prediction#:~:text=Stock%20market%20prediction%20is%20the,price%20could%20yield%20significant%20profit.)
 2. [Github: Stock Price Prediction](https://github.com/karasuno7/Stock-Price-Prediction)
+3. [Regression - Forecasting and Predicting](https://pythonprogramming.net/forecasting-predicting-machine-learning-tutorial/)
+4. [Quandl: Financial, Economic and Alternative Data](https://www.quandl.com/)
